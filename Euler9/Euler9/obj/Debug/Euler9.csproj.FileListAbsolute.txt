@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler9\Euler9\bin\Debug\Euler9.exe.config
+C:\Users\lanad\source\repos\Euler9\Euler9\bin\Debug\Euler9.exe
+C:\Users\lanad\source\repos\Euler9\Euler9\bin\Debug\Euler9.pdb
+C:\Users\lanad\source\repos\Euler9\Euler9\obj\Debug\Euler9.csprojResolveAssemblyReference.cache
+C:\Users\lanad\source\repos\Euler9\Euler9\obj\Debug\Euler9.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler9\Euler9\obj\Debug\Euler9.exe
+C:\Users\lanad\source\repos\Euler9\Euler9\obj\Debug\Euler9.pdb

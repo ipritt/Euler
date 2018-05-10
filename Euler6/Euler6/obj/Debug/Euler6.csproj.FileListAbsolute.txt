@@ -1,0 +1,6 @@
+C:\Users\lanad\source\repos\Euler6\Euler6\obj\Debug\Euler6.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler6\Euler6\bin\Debug\Euler6.exe.config
+C:\Users\lanad\source\repos\Euler6\Euler6\bin\Debug\Euler6.exe
+C:\Users\lanad\source\repos\Euler6\Euler6\bin\Debug\Euler6.pdb
+C:\Users\lanad\source\repos\Euler6\Euler6\obj\Debug\Euler6.exe
+C:\Users\lanad\source\repos\Euler6\Euler6\obj\Debug\Euler6.pdb

@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler4\Euler4\bin\Debug\Euler4.exe.config
+C:\Users\lanad\source\repos\Euler4\Euler4\bin\Debug\Euler4.exe
+C:\Users\lanad\source\repos\Euler4\Euler4\bin\Debug\Euler4.pdb
+C:\Users\lanad\source\repos\Euler4\Euler4\obj\Debug\Euler4.csprojResolveAssemblyReference.cache
+C:\Users\lanad\source\repos\Euler4\Euler4\obj\Debug\Euler4.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler4\Euler4\obj\Debug\Euler4.exe
+C:\Users\lanad\source\repos\Euler4\Euler4\obj\Debug\Euler4.pdb

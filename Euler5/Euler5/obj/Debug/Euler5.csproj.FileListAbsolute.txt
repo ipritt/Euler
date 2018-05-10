@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler5\Euler5\bin\Debug\Euler5.exe.config
+C:\Users\lanad\source\repos\Euler5\Euler5\bin\Debug\Euler5.exe
+C:\Users\lanad\source\repos\Euler5\Euler5\bin\Debug\Euler5.pdb
+C:\Users\lanad\source\repos\Euler5\Euler5\obj\Debug\Euler5.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler5\Euler5\obj\Debug\Euler5.exe
+C:\Users\lanad\source\repos\Euler5\Euler5\obj\Debug\Euler5.pdb
+C:\Users\lanad\source\repos\Euler5\Euler5\obj\Debug\Euler5.csprojResolveAssemblyReference.cache

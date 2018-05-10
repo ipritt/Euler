@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler8\Euler8\bin\Debug\Euler8.exe.config
+C:\Users\lanad\source\repos\Euler8\Euler8\bin\Debug\Euler8.exe
+C:\Users\lanad\source\repos\Euler8\Euler8\bin\Debug\Euler8.pdb
+C:\Users\lanad\source\repos\Euler8\Euler8\obj\Debug\Euler8.csprojResolveAssemblyReference.cache
+C:\Users\lanad\source\repos\Euler8\Euler8\obj\Debug\Euler8.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler8\Euler8\obj\Debug\Euler8.exe
+C:\Users\lanad\source\repos\Euler8\Euler8\obj\Debug\Euler8.pdb

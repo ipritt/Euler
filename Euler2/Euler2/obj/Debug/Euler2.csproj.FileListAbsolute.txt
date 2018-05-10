@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler2\Euler2\bin\Debug\Euler2.exe.config
+C:\Users\lanad\source\repos\Euler2\Euler2\bin\Debug\Euler2.exe
+C:\Users\lanad\source\repos\Euler2\Euler2\bin\Debug\Euler2.pdb
+C:\Users\lanad\source\repos\Euler2\Euler2\obj\Debug\Euler2.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler2\Euler2\obj\Debug\Euler2.exe
+C:\Users\lanad\source\repos\Euler2\Euler2\obj\Debug\Euler2.pdb
+C:\Users\lanad\source\repos\Euler2\Euler2\obj\Debug\Euler2.csprojResolveAssemblyReference.cache

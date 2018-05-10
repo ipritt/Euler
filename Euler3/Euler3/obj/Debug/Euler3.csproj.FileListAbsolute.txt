@@ -1,0 +1,7 @@
+C:\Users\lanad\source\repos\Euler3\Euler3\bin\Debug\Euler3.exe.config
+C:\Users\lanad\source\repos\Euler3\Euler3\bin\Debug\Euler3.exe
+C:\Users\lanad\source\repos\Euler3\Euler3\bin\Debug\Euler3.pdb
+C:\Users\lanad\source\repos\Euler3\Euler3\obj\Debug\Euler3.csprojResolveAssemblyReference.cache
+C:\Users\lanad\source\repos\Euler3\Euler3\obj\Debug\Euler3.csproj.CoreCompileInputs.cache
+C:\Users\lanad\source\repos\Euler3\Euler3\obj\Debug\Euler3.exe
+C:\Users\lanad\source\repos\Euler3\Euler3\obj\Debug\Euler3.pdb
